@@ -5,6 +5,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
+    "start": "node index.js",
     "test": "node index.js"
   },
   "author": "K. Deary / ParretLabs",
