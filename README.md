@@ -1,4 +1,6 @@
 # dippr
+![](https://i.imgur.com/9ybZ2SX.png)
+
 Dippr is an open-source livestreaming service.
 
 The entire site spans across 3 repositories: **Backend** - [Streaming](https://github.com/dippr/dippr_stream) - [Client](https://github.com/dippr/dippr_client)
